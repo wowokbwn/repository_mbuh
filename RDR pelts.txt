@@ -1,0 +1,27 @@
+
+Tiny: 	Bat, Squirrel, Rat, Chipmunk, Bullfrog, Toad, Snake, Blue Jay, Cardinal, Waxwing, 
+	Crow, Oriole, Pigeon, Robin, Songbird, Sparrow, Woodpecker, Carolina Parakeet, 
+	Chicken, Duck, Loon, Parrot, Pheasant, Quail, Raven, Booby, Rooster, Gull
+
+Small: 	Eagle, Crane, Cormorant, Egret, Hawk, Heron, Owl, Pelican, Spoonbill, Turkey, 
+	Vulture, Condor, Goose, Iguana, Gila Monster, Rabbit, Armadillo, Badger, Muskrat, 
+	Possum, Raccoon, Skunk, Beaver
+
+Medium: Coyote, Fox, Pig
+
+Big: 	Boar, Buck, Cougar, Panther, Big Horn Ram, Wolf, Deer, Pronghorn, Goat, Sheep, 
+	Peccary, Alligator (Small), Turtle
+
+Gigantic: Bear, Bison, Bull, Elk, Moose, Ox, Cow, Alligator (Adult)
+
+
+    Tiny: Bow with Small Game Arrows (Varmint Rifle can also work but can damage pelt sometimes)
+
+    Small: Varmint Rifle
+
+    Medium: Standard Arrows / Repeater with Regular Ammo (e.g. Carbine Repeater, Lancaster Repeater)
+
+    Big: / Rifle with Regular Ammo (e.g. Springfield Rifle) Poison Arrows 
+
+    Gigantic: Sniper Rifle with Regular Ammo (e.g. Rolling Block Rifle)
+
